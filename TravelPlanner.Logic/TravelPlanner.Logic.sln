@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29311.281
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelPlanner.Logic", "TravelPlanner.Logic\TravelPlanner.Logic.csproj", "{4C2FE680-2483-433D-AF5E-651E76B9B1E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelPlannerAPI", "TravelPlannerAPI\TravelPlannerAPI.csproj", "{718B7F30-B23C-49CA-936F-5E034A461E6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C2FE680-2483-433D-AF5E-651E76B9B1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2FE680-2483-433D-AF5E-651E76B9B1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2FE680-2483-433D-AF5E-651E76B9B1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2FE680-2483-433D-AF5E-651E76B9B1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718B7F30-B23C-49CA-936F-5E034A461E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718B7F30-B23C-49CA-936F-5E034A461E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718B7F30-B23C-49CA-936F-5E034A461E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718B7F30-B23C-49CA-936F-5E034A461E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CBF8564-2CE9-4337-85BA-0623E775D72C}
+	EndGlobalSection
+EndGlobal
